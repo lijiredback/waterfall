@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#main {
+    position: relative;
+}
+
+.box {
+    padding: 15px 7px 0 7px;
+    float: left;
+    overflow:auto;
+}
+
+.pic {
+    border: 1px solid #ddd;
+}
+
+.pic img {
+    width: 165px;
+    padding: 10px;
+}
